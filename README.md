@@ -1,6 +1,6 @@
 # Hi, I'm Saurav Daruka
 
-Hands-on Technical Architect with 12 years of experience designing and implementing reliable backend platforms, distributed systems, microservices, and enterprise integration architectures.
+Lead Software Engineer with 12 years of experience designing and implementing reliable backend platforms, distributed systems, microservices, and enterprise integration architectures.
 
 ## Architecture focus
 
