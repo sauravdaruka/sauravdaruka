@@ -1,13 +1,13 @@
 # Hi, I'm Saurav Daruka
 
-Lead Backend Engineer with 12 years of experience building reliable backend services, distributed systems, microservices, and enterprise integration platforms.
+Hands-on Technical Architect with 12 years of experience designing and implementing reliable backend platforms, distributed systems, microservices, and enterprise integration architectures.
 
-## Engineering focus
+## Architecture focus
 
-- Backend architecture and API design
+- Service decomposition, API contracts, and integration architecture
 - Distributed systems and event-driven processing
-- Reliability, failure handling, observability, and performance
-- Code reviews, technical design, and engineering mentorship
+- Scalability, data consistency, failure recovery, observability, and performance
+- Architecture reviews, implementation standards, and production readiness
 - Responsible AI-assisted development with engineer review and automated quality checks
 
 ## Technologies
@@ -23,11 +23,11 @@ Lead Backend Engineer with 12 years of experience building reliable backend serv
 
 ### [Patient Management System](https://github.com/sauravdaruka/PatientManagement)
 
-A Spring Boot microservices system containing patient, billing, authentication, analytics, and API gateway services, together with integration tests and infrastructure configuration.
+A Spring Boot microservices system demonstrating JWT authentication, API gateway routing, gRPC communication, Kafka-based analytics, integration tests, and LocalStack infrastructure automation.
 
 ### [Bank Microservices](https://github.com/sauravdaruka/BankMicroservices)
 
-A Java and Spring Boot microservices project demonstrating independently structured services, centralized configuration, service discovery, API gateway routing, and containerized local development.
+A Java and Spring Boot microservices project demonstrating independently structured services, centralized configuration, service discovery, API gateway routing, messaging, and containerized local development.
 
 ### [Tambola Game Validator](https://github.com/sauravdaruka/TambolaGame)
 
